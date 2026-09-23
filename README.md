@@ -1,2 +1,2 @@
 # arcpy-scripts
-Scripts used for various forms of GIS anaylsis in AtcGIS Pro
+Scripts used for various forms of analysis in ArcGIS Pro
